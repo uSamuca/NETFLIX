@@ -1,0 +1,132 @@
+body{
+    margin: 0 auto;
+    font-family: Geologica;
+    background-color:#00081d
+    
+}
+  
+  
+  
+  
+  
+#logo{
+    width: 150px;
+}
+#container{
+    background-image: linear-gradient(103.24deg, rgba(0, 8, 29, 0.9) 23.83%, rgba(0, 8, 29, 0.3) 96.1%), url(https://assets.nflxext.com/ffe/siteui/vlv3/530fc327-2ddb-4038-a3f0-2da2d9ccede1/81c68250-e0f1-4cd8-bf2d-4fd8222163de/BR-pt-20230619-popsignuptwoweeks-perspective_alpha_website_large.jpg);
+    background-size: cover;
+    height: 700px;
+    padding: 10px 100px;
+   
+    
+}
+#header{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  
+}
+select{
+    padding: 7px 20px;
+    font-size: 15px;
+    border:none;
+    border-radius: 5px;
+    background-color: rgba(0, 0, 0, 0.712);
+    color: white;
+    margin-right: 10px;
+     
+}
+
+
+
+
+#btn-enter{
+    padding: 7px 15px;
+    font-size: 15px;
+    background-color: #e50914;
+    border: none;
+    border-radius: 5px;
+    color: white;
+    margin:15px; 
+   
+}
+
+#main{
+    color:white;
+    margin-top: 200px;
+    margin-left: 100px;
+    
+   
+    
+    
+}
+#title-main{
+    font-size: 44px;
+}
+.subtitle-main{
+   
+    margin-left: 180px;
+    font-weight: 200;
+}
+
+#text{
+    margin-left: 130px;
+    font-weight: 100;
+    margin-top: 30px;
+}
+form{
+    margin-left: 150px;
+    display: flex;
+    flex-direction:row ;
+    
+}
+#input{
+   width: 350px;
+   padding: 15px;
+   margin-right: 10px;
+   font-size: 20px;
+   border-radius: 10px;
+   background-color: rgba(0, 0, 0, 0.712);
+   color: white;
+   border: 1px solid rgb(245, 9, 9)
+}
+
+#btn-start{
+    font-size: 20px;
+    font-weight: 700;
+    padding: 2px 30px;
+    color:white;
+    background-color:#e50914;
+    border:none;
+    border-radius: 10px;
+
+}
+#box-container{
+    width: 100%;
+    height:1200px;
+    background: linear-gradient(333.52deg,  #000235 24.58%, #010f42 82.55%, #E40913 104.96%);
+    margin: 0 auto;
+    margin-top: 100px;
+    border-radius: 10px;
+   
+}
+.box-info{
+    display: flex;
+    flex-direction: row;
+    color:white;
+    align-items: center;
+    padding: 30px;
+    justify-content: center;
+   
+}
+.box-title{
+    font-size:50px
+}
+.shadow{
+    width: 80%;
+    height: 8px;
+    background-color: rgba(0, 0, 0, 0.534);
+   margin:0 auto;
+   
+}
